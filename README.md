@@ -1,23 +1,26 @@
 
-# 📊  E-Commerce Data Analysis (EDA) — Python Project
+# 📊 E-Commerce Data Analysis (EDA) — Python Project
 
 
 This repository contains an end-to-end Exploratory Data Analysis (EDA) project performed on an E-Commerce Superstore Dataset using Python in Jupyter Notebook.
 
 The goal of this analysis is to uncover meaningful insights about sales performance, customer behavior, profitability, product efficiency, and regional contribution to support business decision-making.
 
-📁 Repository Structure
-📂 E-Commerce-EDA-Project
-│── 📘 E-Commerce EDA Project.ipynb
-│── 📄 Superstore Dataset.csv
-│── 📑 Detailed Project Summary — E-Commerce Data Analysis (EDA).pdf
-│── 📄 README.md
+📁 **Repository Structure**
 
+ 📂 E-Commerce-EDA-Project 
 
-🎯 **Project Objective**
+ │── 📘 E-Commerce EDA Project.ipynb 
+
+ │── 📄 Superstore Dataset.csv 
+
+ │── 📑 Detailed Project Summary — E-Commerce Data Analysis (EDA).pdf 
+
+ │── 📄 README.md
+
+🎯 **Project Objectives**
 
 This project aims to answer key business questions, including:
-
 
 1. Which regions, states, and cities drive maximum sales and profit?
 
@@ -45,11 +48,9 @@ This project aims to answer key business questions, including:
 
 👉🏻Superstore Dataset (CSV)
 
-
 📂 **Dataset Overview**
 
 The dataset contains:
-
 
 1. Order Details: Order ID, Order Date, Ship Date, Ship Mode
 
@@ -61,19 +62,17 @@ The dataset contains:
 
 5. Business Metrics: Sales, Quantity, Discount, Profit
 
-
 📌 **New Features Created**
 
-a.  Order Year
+a. Order Year
 
 b. Order Month
 
 c. Sales-to-Profit Ratio (for margin analysis)
 
-
 🔍 **Exploratory Data Analysis (EDA)**
 
-📅 1. Monthly & Yearly Trends
+📅 **1. Monthly & Yearly Trends**
 
 Identified peak months for sales and profit.
 
@@ -81,25 +80,25 @@ Analyzed year-over-year growth in revenue.
 
 Detected months with high sales but low profit due to heavy discounting.
 
-🌍 2. Regional, State & City Performance
+🌍 **2. Regional, State & City Performance**
 
-A) Region-Level Insights
+**A) Region-Level Insights**
 
 West & East regions contributed the highest revenue.
 
 Highlighted underperforming regions needing strategic focus.
 
-B) State-Level Insights
+**B) State-Level Insights**
 
 Top states: California, Washington, New York.
 
 Some high-revenue states showed negative profit, indicating operational inefficiencies.
 
-C) City-Level Insights
+**C) City-Level Insights**
 
 Identified top-performing cities and cities with consistent losses.
 
-📦 3. Category & Sub-Category Performance
+📦 **3. Category & Sub-Category Performance**
 
 Categories: Technology, Office Supplies, Furniture
 
@@ -111,8 +110,7 @@ Sub-categories like Phones, Chairs, Binders led in sales.
 
 Tables showed consistent negative profit despite high sales — a critical pricing or cost issue.
 
-
-👥 4. Customer Segment Analysis
+👥 **4. Customer Segment Analysis**
 
 Segments: Consumer, Corporate, Home Office
 
@@ -120,7 +118,7 @@ Consumer segment generated the highest sales.
 
 Corporate buyers provided stable profit margins.
 
-🚚 5. Ship Mode & Order Priority Analysis
+🚚 **5. Ship Mode & Order Priority Analysis**
 
 Standard Class was the most frequently used ship mode.
 
@@ -128,13 +126,13 @@ Faster ship modes improved customer experience but increased cost.
 
 Order priority did not strongly impact profitability.
 
-📈 6. Sales-to-Profit Ratio
+📈 **6. Sales-to-Profit Ratio**
 
 Identified high-volume but low-margin sub-categories.
 
 Helped in spotting products requiring pricing or cost adjustments.
 
-🧾 Key Business Insights
+🧾 **Key Business Insights**
 
 A) Best performing category: Technology
 
@@ -156,7 +154,6 @@ G) Customer insights:
 
 Consumer segment contributes highest revenue
 
-
 📌 **Conclusion**
 
 This E-Commerce EDA project successfully uncovers:
@@ -169,14 +166,15 @@ This E-Commerce EDA project successfully uncovers:
 
 ✅Opportunities to improve pricing, supply chain, and marketing
 
-
 The project demonstrates strong analytical and visualization skills using Python, making it useful for stakeholders in the business and data analytics domain.
 
-
-👩‍💻 Author
+👩‍💻 **Author**
 
 Saheli Nath
 
-📧 LinkedIn Profile: [https://www.linkedin.com/in/saheli-nath28/]
+📧 **LinkedIn Profile:** [https://www.linkedin.com/in/saheli-nath28/]
 
-Email: [nathsaheli1999@gmail.com]
+**Email:** [nathsaheli1999@gmail.com]
+
+
+
